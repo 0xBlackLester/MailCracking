@@ -3,4 +3,9 @@ _[DESCRIPCIÓN] Herramienta para Windows programada en python cuya finalidad es 
 ## 🤔 Función de la herramienta 🤔
 _Permite comprobar nuestra seguridad, si nos muestra nuestra contraseña nos da la opción de eliminarla de breachdirectory para que otra persona no pueda revisar nuestro correo._
 ## ⚠️ Importante ⚠️
-_A esta herramienta no se le puede dar un mal uso ya que unicamente muestra el sistema operativo (Windows - Linux). Para los pentesters o los aficionados a la ciberseguridad les sirve de utilidad para conocer que el camino a llevar para comprometer el sistema._
+_0xBlackLester no se hace responsable del mal uso que se le pueda dar a MailCracking, esta herramienta ha sido creada para mantener nuestra privacidad en correos electrónicos y redes sociales._
+## 🖥️ Instalación 🖥️
+```
+git clone https://github.com/0xBlackLester/MailCracking.git
+cd MailCracking
+python mailcracking.py
