@@ -12,3 +12,5 @@ python mailcracking.py
 ```
 ## 🆙 Actualizaciones 🆙
 _Esta herramienta se irá actualizando conforme pase el tiempo y las necesidades vayan aumentando._
+## 🆕 Novedades 🆕
+_Esta herramienta se encuentra _
