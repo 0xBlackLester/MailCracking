@@ -3,6 +3,7 @@ _[DESCRIPCIÓN] Herramienta para Windows programada en python cuya finalidad es 
 ## 🤔 Diferencia entre breachdirectory.org y MailCracking 🤔
 _Este programa se ha creado usando la API de breachdirectory.org, agilizando el crackeo de hash y la eliminación de contraseñas filtradas._
 _Si usas breachdirectory no siempre te mostrará la contraseña correcta, además tendrías que usar otra herramienta externa para crackear el hash previamente copiado._
+_MailCracking puede ser usada en consola de Windows (.exe) y Linux (git - curl), además de una futura actualización la cual permita acceder a la herramienta mediante un bot de telegram._
 ## 🤔 Función de la herramienta 🤔
 _Permite comprobar nuestra seguridad, si nos muestra nuestra contraseña nos da la opción de eliminarla de breachdirectory para que otra persona no pueda revisar nuestro correo._
 ## ⚠️ Importante ⚠️
