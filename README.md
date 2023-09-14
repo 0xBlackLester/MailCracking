@@ -13,4 +13,4 @@ python mailcracking.py
 ## 🆙 Actualizaciones 🆙
 _Esta herramienta se irá actualizando conforme pase el tiempo y las necesidades vayan aumentando._
 ## 🆕 Novedades 🆕
-_Esta herramienta se encuentra _
+_Esta herramienta se encuentra en fase de desarrollo, cuando sea terminada se subirá a este repositorio._
